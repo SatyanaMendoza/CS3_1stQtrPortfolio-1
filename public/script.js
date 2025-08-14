@@ -12,3 +12,5 @@ if (sure) {
 else {
     window.alert("Please click on run again");
 }
+
+//<script src="script.js"></script>
